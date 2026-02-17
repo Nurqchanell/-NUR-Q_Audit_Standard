@@ -11,13 +11,16 @@ The following versions of NUR are currently being supported with security update
 
 ## Reporting a Vulnerability
 
-We take the security of NUR seriously. If you believe you have found a security vulnerability, please do NOT open a public issue. 
+We take the security of NUR very seriously. If you believe you have found a security vulnerability, please **do NOT** open a public issue or discuss it publicly.
 
-Instead, please report it privately by emailing: **NeutralPoint1@proton.me**
+Instead, report it privately by emailing:  
+**NeutralPoint1@proton.me**
 
 Please include the following in your report:
-- A description of the vulnerability.
-- Steps to reproduce (POC).
-- Potential impact.
+- A clear description of the vulnerability
+- Steps to reproduce (ideally with a proof-of-concept)
+- Potential impact
 
-We will acknowledge your report within 48 hours and provide a timeline for a fix.
+We will acknowledge receipt of your report within **48 hours** and aim to provide a detailed response (including timeline for fix) within **7 days**.
+
+Thank you for helping keep NUR secure.
